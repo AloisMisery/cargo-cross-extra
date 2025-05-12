@@ -22,7 +22,7 @@ git submodule update --init --remote
 
 COMMON_OPTS=(
     # '--repository=ghcr.io/aloismisery'
-    '--repository=aloismisery'
+    '--repository=docker.io/aloismisery'
     '--tag=extra'
 
     '-v'
